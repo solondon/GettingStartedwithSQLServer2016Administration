@@ -1,0 +1,1 @@
+# GettingStartedwithSQLServer2016Administration
